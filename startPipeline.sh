@@ -3,7 +3,9 @@
 set -euo pipefail
 
 REPO_URL="https://github.com/derekvawdrey/OnseiModified.git"
+WAVEHAX_REPO_URL="https://github.com/chomeyama/wavehax.git"
 ONSEI_ROOT="${ONSEI_ROOT:-/Users/derekvawdrey/Workspace/School/CS479FinalProject/onsei}"
+WAVEHAX_ROOT="${WAVEHAX_ROOT:-/Users/derekvawdrey/Workspace/School/CS479FinalProject/wavehax}"
 API_PORT="${API_PORT:-8000}"
 CONTAINER_NAME="${CONTAINER_NAME:-onsei-api}"
 BASE_IMAGE_TAG="${BASE_IMAGE_TAG:-onsei}"
@@ -16,6 +18,16 @@ ensure_repo() {
   else
     rm -rf "$ONSEI_ROOT"
     git clone "$REPO_URL" "$ONSEI_ROOT"
+  fi
+}
+
+ensure_wavehax_repo() {
+  if [ -d "$WAVEHAX_ROOT/.git" ]; then
+    git -C "$WAVEHAX_ROOT" fetch --prune
+    git -C "$WAVEHAX_ROOT" reset --hard origin/main
+  else
+    rm -rf "$WAVEHAX_ROOT"
+    git clone "$WAVEHAX_REPO_URL" "$WAVEHAX_ROOT"
   fi
 }
 
@@ -37,6 +49,7 @@ restart_api() {
 }
 
 ensure_repo
+ensure_wavehax_repo
 build_images
 restart_api
 
