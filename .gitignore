@@ -19,3 +19,7 @@ __pycache__/*
 /fastSpeechVenv/
 /kaldi/*
 /kaldi/
+*.zip
+*.wav
+*.lab
+*.csv
