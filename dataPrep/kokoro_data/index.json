@@ -7,36 +7,6 @@
         "archive_url": "http://www.archive.org/download//meian_1403_librivox/meian_1403_librivox_64kb_mp3.zip",
         "totaltime": "16:39:29",
         "enabled": true,
-        "sizes": ""
-    },
-    {
-        "id": "kokoro-by-soseki-natsume",
-        "name": "こころ (Kokoro)",
-        "librivox_url": "https://librivox.org/kokoro-by-soseki-natsume/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/773_14560.html",
-        "archive_url": "http://www.archive.org/download//kokoro_natsume_um_librivox/kokoro_natsume_um_librivox_64kb_mp3.zip",
-        "totaltime": "08:46:41",
-        "enabled": true,
-        "sizes": "large"
-    },
-    {
-        "id": "inakakyoshi-by-katai-tayama",
-        "name": "田舎教師 (Inaka Kyoshi)",
-        "librivox_url": "https://librivox.org/inakakyoshi-by-katai-tayama/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000214/files/1668_26031.html",
-        "archive_url": "http://www.archive.org/download//inakakyoshi_1311_librivox/inakakyoshi_1311_librivox_64kb_mp3.zip",
-        "totaltime": "08:13:26",
-        "enabled": true,
-        "sizes": "large"
-    },
-    {
-        "id": "nowaki-by-soseki-natsume",
-        "name": "野分 (Nowaki)",
-        "librivox_url": "https://librivox.org/nowaki-by-soseki-natsume/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/791_14959.html",
-        "archive_url": "http://www.archive.org/download/nowaki_um_librivox/nowaki_um_librivox_64kb_mp3.zip",
-        "totaltime": "4:40:49",
-        "enabled": true,
         "sizes": "large"
     },
     {
@@ -46,6 +16,16 @@
         "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/776_14941.html",
         "archive_url": "http://www.archive.org/download//kusamakura_1311_librivox/kusamakura_1311_librivox_64kb_mp3.zip",
         "totaltime": "04:27:35",
+        "enabled": true,
+        "sizes": "small"
+    },
+    {
+        "id": "botchan-by-soseki-natsume-2",
+        "name": "坊っちゃん (Botchan)",
+        "librivox_url": "https://librivox.org/botchan-by-soseki-natsume-2/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/752_14964.html",
+        "archive_url": "http://www.archive.org/download//botchan_1310_librivox/botchan_1310_librivox_64kb_mp3.zip",
+        "totaltime": "04:26:27",
         "enabled": true,
         "sizes": "small"
     },
@@ -66,26 +46,6 @@
         "aozora_url": "http://www.aozora.gr.jp/cards/000025/files/1111_20600.html",
         "archive_url": "http://www.archive.org/download/umareizuru_nayami_ez_1302/umareizuru_nayami_ez_1302_64kb_mp3.zip",
         "totaltime": "2:43:12",
-        "enabled": true,
-        "sizes": "large"
-    },
-    {
-        "id": "garasudono-uchi-by-natsume-soseki",
-        "name": "硝子戸の中 (Garasudono uchi)",
-        "librivox_url": "https://librivox.org/garasudono-uchi-by-natsume-soseki/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/760_14940.html",
-        "archive_url": "http://www.archive.org/download/garasudonouchi_1208_librivox/garasudonouchi_1208_librivox_64kb_mp3.zip",
-        "totaltime": "2:39:53",
-        "enabled": true,
-        "sizes": "large"
-    },
-    {
-        "id": "eijitsu-syohin-by-soseki-natsume",
-        "name": "永日小品 (Eijitsu Syohin)",
-        "librivox_url": "https://librivox.org/eijitsu-syohin-by-soseki-natsume/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/758_14936.html",
-        "archive_url": "http://www.archive.org/download/eijitsu_syohin_um_librivox/eijitsu_syohin_um_librivox_64kb_mp3.zip",
-        "totaltime": "2:33:54",
         "enabled": true,
         "sizes": "large"
     },
