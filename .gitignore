@@ -23,3 +23,5 @@ __pycache__/*
 *.wav
 *.lab
 *.csv
+*.mp3
+*.metadata.txt

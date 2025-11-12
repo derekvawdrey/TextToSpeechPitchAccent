@@ -1,0 +1,132 @@
+[
+    {
+        "id": "meian-by-soseki-natsume",
+        "name": "明暗 (Meian)",
+        "librivox_url": "https://librivox.org/meian-by-soseki-natsume/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/782_14969.html",
+        "archive_url": "http://www.archive.org/download//meian_1403_librivox/meian_1403_librivox_64kb_mp3.zip",
+        "totaltime": "16:39:29",
+        "enabled": true,
+        "sizes": ""
+    },
+    {
+        "id": "kokoro-by-soseki-natsume",
+        "name": "こころ (Kokoro)",
+        "librivox_url": "https://librivox.org/kokoro-by-soseki-natsume/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/773_14560.html",
+        "archive_url": "http://www.archive.org/download//kokoro_natsume_um_librivox/kokoro_natsume_um_librivox_64kb_mp3.zip",
+        "totaltime": "08:46:41",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "inakakyoshi-by-katai-tayama",
+        "name": "田舎教師 (Inaka Kyoshi)",
+        "librivox_url": "https://librivox.org/inakakyoshi-by-katai-tayama/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000214/files/1668_26031.html",
+        "archive_url": "http://www.archive.org/download//inakakyoshi_1311_librivox/inakakyoshi_1311_librivox_64kb_mp3.zip",
+        "totaltime": "08:13:26",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "nowaki-by-soseki-natsume",
+        "name": "野分 (Nowaki)",
+        "librivox_url": "https://librivox.org/nowaki-by-soseki-natsume/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/791_14959.html",
+        "archive_url": "http://www.archive.org/download/nowaki_um_librivox/nowaki_um_librivox_64kb_mp3.zip",
+        "totaltime": "4:40:49",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "kusamakura-by-soseki-natsume",
+        "name": "草枕 (Kusamakura)",
+        "librivox_url": "https://librivox.org/kusamakura-by-soseki-natsume/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/776_14941.html",
+        "archive_url": "http://www.archive.org/download//kusamakura_1311_librivox/kusamakura_1311_librivox_64kb_mp3.zip",
+        "totaltime": "04:27:35",
+        "enabled": true,
+        "sizes": "small"
+    },
+    {
+        "id": "gan-by-ogai-mori",
+        "name": "雁 (Gan)",
+        "librivox_url": "https://librivox.org/gan-by-ogai-mori/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000129/files/45224_19919.html",
+        "archive_url": "http://www.archive.org/download//gan_1311_librivox/gan_1311_librivox_64kb_mp3.zip",
+        "totaltime": "03:41:31",
+        "enabled": true,
+        "sizes": "small"
+    },
+    {
+        "id": "umareizuru-nayami-by-takeo-arishima",
+        "name": "生まれいずる悩み (Umareizuru Nayami)",
+        "librivox_url": "https://librivox.org/umareizuru-nayami-by-takeo-arishima/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000025/files/1111_20600.html",
+        "archive_url": "http://www.archive.org/download/umareizuru_nayami_ez_1302/umareizuru_nayami_ez_1302_64kb_mp3.zip",
+        "totaltime": "2:43:12",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "garasudono-uchi-by-natsume-soseki",
+        "name": "硝子戸の中 (Garasudono uchi)",
+        "librivox_url": "https://librivox.org/garasudono-uchi-by-natsume-soseki/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/760_14940.html",
+        "archive_url": "http://www.archive.org/download/garasudonouchi_1208_librivox/garasudonouchi_1208_librivox_64kb_mp3.zip",
+        "totaltime": "2:39:53",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "eijitsu-syohin-by-soseki-natsume",
+        "name": "永日小品 (Eijitsu Syohin)",
+        "librivox_url": "https://librivox.org/eijitsu-syohin-by-soseki-natsume/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/758_14936.html",
+        "archive_url": "http://www.archive.org/download/eijitsu_syohin_um_librivox/eijitsu_syohin_um_librivox_64kb_mp3.zip",
+        "totaltime": "2:33:54",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "futon-by-katai-tayama",
+        "name": "蒲団 (Futon)",
+        "librivox_url": "https://librivox.org/futon-by-katai-tayama/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000214/files/1669_8259.html",
+        "archive_url": "http://www.archive.org/download/futon_ek_1303_librivox/futon_ek_1303_librivox_64kb_mp3.zip",
+        "totaltime": "2:28:58",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "kouyahijiri-by-kyoka-izumi",
+        "name": "高野聖 (Kouyahijiri)",
+        "librivox_url": "https://librivox.org/kouyahijiri-by-kyoka-izumi/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000050/files/521_20583.html",
+        "archive_url": "http://www.archive.org/download/kouyahijiri_1303_librivox/kouyahijiri_1303_librivox_64kb_mp3.zip",
+        "totaltime": "2:06:23",
+        "enabled": true,
+        "sizes": "large"
+    },
+    {
+        "id": "gongitsune-by-nankichi-niimi",
+        "name": "ごん狐 (Gon gitsune)",
+        "librivox_url": "https://librivox.org/gongitsune-by-nankichi-niimi/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000121/files/628_14895.html",
+        "archive_url": "http://archive.org/download/gongitsune_um_librivox/gongitsune_um_librivox_64kb_mp3.zip",
+        "totaltime": "0:15:42",
+        "enabled": true,
+        "sizes": "tiny"
+    },
+    {
+        "id": "caucasus-no-hagetaka-by-yoshio-toyoshima",
+        "name": "コーカサスの禿鷹 (Caucasus no Hagetaka)",
+        "librivox_url": "https://librivox.org/caucasus-no-hagetaka-by-yoshio-toyoshima/",
+        "aozora_url": "http://www.aozora.gr.jp/cards/000906/files/42633_22951.html",
+        "archive_url": "http://www.archive.org/download/caucasus_no_hagetaka_um_librivox/caucasus_no_hagetaka_um_librivox_64kb_mp3.zip",
+        "totaltime": "0:13:04",
+        "enabled": true,
+        "sizes": "tiny"
+    }
+]
