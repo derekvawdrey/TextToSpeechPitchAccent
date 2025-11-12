@@ -17,7 +17,7 @@
         "archive_url": "http://www.archive.org/download/kusamakura_1311_librivox/kusamakura_1311_librivox_64kb_mp3.zip",
         "totaltime": "04:27:35",
         "enabled": true,
-        "sizes": "small"
+        "sizes": "large"
     },
     {
         "id": "botchan-by-soseki-natsume-2",
@@ -37,7 +37,7 @@
         "archive_url": "http://www.archive.org/download/gan_1311_librivox/gan_1311_librivox_64kb_mp3.zip",
         "totaltime": "03:41:31",
         "enabled": true,
-        "sizes": "small"
+        "sizes": "large"
     },
     {
         "id": "umareizuru-nayami-by-takeo-arishima",
