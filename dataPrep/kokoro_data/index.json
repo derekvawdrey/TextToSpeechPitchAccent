@@ -4,7 +4,7 @@
         "name": "明暗 (Meian)",
         "librivox_url": "https://librivox.org/meian-by-soseki-natsume/",
         "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/782_14969.html",
-        "archive_url": "http://www.archive.org/download//meian_1403_librivox/meian_1403_librivox_64kb_mp3.zip",
+        "archive_url": "http://www.archive.org/download/meian_1403_librivox/meian_1403_librivox_64kb_mp3.zip",
         "totaltime": "16:39:29",
         "enabled": true,
         "sizes": "large"
@@ -14,7 +14,7 @@
         "name": "草枕 (Kusamakura)",
         "librivox_url": "https://librivox.org/kusamakura-by-soseki-natsume/",
         "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/776_14941.html",
-        "archive_url": "http://www.archive.org/download//kusamakura_1311_librivox/kusamakura_1311_librivox_64kb_mp3.zip",
+        "archive_url": "http://www.archive.org/download/kusamakura_1311_librivox/kusamakura_1311_librivox_64kb_mp3.zip",
         "totaltime": "04:27:35",
         "enabled": true,
         "sizes": "small"
@@ -24,7 +24,7 @@
         "name": "坊っちゃん (Botchan)",
         "librivox_url": "https://librivox.org/botchan-by-soseki-natsume-2/",
         "aozora_url": "http://www.aozora.gr.jp/cards/000148/files/752_14964.html",
-        "archive_url": "http://www.archive.org/download//botchan_1310_librivox/botchan_1310_librivox_64kb_mp3.zip",
+        "archive_url": "http://www.archive.org/download/botchan_1310_librivox/botchan_1310_librivox_64kb_mp3.zip",
         "totaltime": "04:26:27",
         "enabled": true,
         "sizes": "small"
@@ -34,7 +34,7 @@
         "name": "雁 (Gan)",
         "librivox_url": "https://librivox.org/gan-by-ogai-mori/",
         "aozora_url": "http://www.aozora.gr.jp/cards/000129/files/45224_19919.html",
-        "archive_url": "http://www.archive.org/download//gan_1311_librivox/gan_1311_librivox_64kb_mp3.zip",
+        "archive_url": "http://www.archive.org/download/gan_1311_librivox/gan_1311_librivox_64kb_mp3.zip",
         "totaltime": "03:41:31",
         "enabled": true,
         "sizes": "small"
@@ -56,16 +56,6 @@
         "aozora_url": "http://www.aozora.gr.jp/cards/000214/files/1669_8259.html",
         "archive_url": "http://www.archive.org/download/futon_ek_1303_librivox/futon_ek_1303_librivox_64kb_mp3.zip",
         "totaltime": "2:28:58",
-        "enabled": true,
-        "sizes": "large"
-    },
-    {
-        "id": "kouyahijiri-by-kyoka-izumi",
-        "name": "高野聖 (Kouyahijiri)",
-        "librivox_url": "https://librivox.org/kouyahijiri-by-kyoka-izumi/",
-        "aozora_url": "http://www.aozora.gr.jp/cards/000050/files/521_20583.html",
-        "archive_url": "http://www.archive.org/download/kouyahijiri_1303_librivox/kouyahijiri_1303_librivox_64kb_mp3.zip",
-        "totaltime": "2:06:23",
         "enabled": true,
         "sizes": "large"
     },
